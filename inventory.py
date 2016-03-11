@@ -16,4 +16,7 @@ inventory["backpack"].remove("dagger"),
 inventory["gold"] += 50
 inventory["pouch"] =  ['tustep manual']
 
+def add_something = input("What do you want to add?")
+	if add_something 
+
 print(inventory)
